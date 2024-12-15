@@ -1,1 +1,4 @@
-# Stop-Sign-Detector
+# Gerekli kütüphaneler
+
+- numpy
+- opencv-python
